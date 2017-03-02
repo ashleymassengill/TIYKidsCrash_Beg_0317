@@ -1,6 +1,6 @@
 ## TIY Crash Course: How to Make the Best/Worst Webpage
 
-Use this Repo to download the necessary files for this course. You will see two folders, _purrfectcats_ and _purrfectcats-demo_. The demo folder contains the complete exercise- only use this as a reference AFTER you have tried to complete the assignment on your own. We will be working in the _purrfectcats_ folder during this course.
+Use this Repo to download the necessary files for this course. You will see two folders, _dessertshop_ and _dessertshop-demo_. The demo folder contains the complete exercise- only use this as a reference AFTER you have tried to complete the assignment on your own. We will be working in the _dessertshop_ folder during this course.
 
 ### Overview
 This crash course will introduce you to the basics of web development. You will learn enough HTML and CSS to design and code a full web page, and we'll also discuss how to approach good web design and usability.
@@ -30,5 +30,6 @@ Attendees leave the class with a complete, one page site that is functional and 
 - CSS Elements: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - Media Queries: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 - List of web recognizable colors: http://htmlcolorcodes.com/color-names/
+- Link to Adobe Colors (custom Hex colors): https://color.adobe.com/
 - List of web recognizable fonts: http://www.cssfontstack.com/
 - Link to Keynote presentation: https://www.dropbox.com/s/ecoj8ldonixfnp1/TIYCrashCourse.key?dl=0

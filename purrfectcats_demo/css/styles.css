@@ -1,32 +1,53 @@
 body {
-font-family: Trebuchet MS;
-text-align: center;
-padding-left: 25%;
-padding-right: 25%;
-line-height: 1.5;
-color: dimgray;
+  font-family: "Avenir";
+  font-size: 18px;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  line-height: 1.5;
+  color: dimgray;
+  background: #FFF3D3;
 }
 
 h1 {
-font-size: 50px;
-text-transform: uppercase;
-color: orangered;
+  font-size: 100px;
+  font-family: "Party LET";
+  color: #61317D;
+  line-height: 90px;
+  padding: 10px;
+  padding-top: 30px;
+  border: 2px solid #51FFB8;
 }
 
 h2 {
-text-transform: uppercase;
-padding-top: 30px;
-font-size: 35px;
-color: teal;
+  font-family: "tekton pro";
+  text-transform: uppercase;
+  padding-top: 30px;
+  font-size: 35px;
+  color: teal;
 }
 
-h3 {
-  text-transform: uppercase;
+h3{
+  font-size: 23px;
 }
 
 img {
-width: 100%;
-height: auto;
+  width: 100%;
+  height: auto;
+}
+
+.left{
+  width: 30%;
+  float: left
+}
+
+.right{
+  width: 60%;
+  float: right;
+}
+
+br{
+  clear: both;
 }
 
 
