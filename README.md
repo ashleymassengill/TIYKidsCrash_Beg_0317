@@ -33,4 +33,4 @@ Attendees leave the class with a complete, one page site that is functional and 
 - Link to Adobe Colors (custom Hex colors): https://color.adobe.com/
 - List of web recognizable fonts: http://www.cssfontstack.com/
 - Link to Keynote presentation: https://www.dropbox.com/s/ecoj8ldonixfnp1/TIYCrashCourse.key?dl=0
-- Unspash - free use photos: http://www.unsplash.com/
+- Unsplash - free use photos: http://www.unsplash.com/
